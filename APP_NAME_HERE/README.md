@@ -13,8 +13,8 @@
 ```serverless invoke local --function <func-name> --path mocks/<func-name>-event.json```
 
 
-##INITIAL SETUP
-###find and replace these throughout the instructions below
+## INITIAL SETUP
+## find and replace these throughout the instructions below
 - API_PATH_HERE
 - REGION_HERE
 - ACCOUNT_ID_HERE
